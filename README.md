@@ -1,4 +1,4 @@
-# Ethereum Buildbot
+# Vapory Buildbot
 
 This project contains the configuration for the [Ethereum Buildbot](https://builds.ethereum.org/waterfall)
 
